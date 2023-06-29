@@ -4,6 +4,6 @@ public class Fealadat_1 {
     }
 }
 
-// Írj egy osztályt mely tartalmaz egy fájlból olvasó satitikus metódust ami bemeneti paraméterként vár egy file pathot
+// Írj egy osztályt mely tartalmaz egy fájlból olvasó statitikus metódust ami bemeneti paraméterként vár egy file pathot
 // a metódus térjen vissza egy String listával aminek elemei a fájl sorai legyenek
 // hívd meg a metódusod peldaString.txt re és irasd ki az eredményt
